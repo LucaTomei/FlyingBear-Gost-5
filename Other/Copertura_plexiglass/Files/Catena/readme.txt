@@ -1,0 +1,1 @@
+per la catena servono 26 maglie
