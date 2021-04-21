@@ -2,7 +2,7 @@
 
 ### Case
 
-- Case in this repository with gcode files
+- [Case in this repository with gcode files](Copertura_plexiglass/README.md)
 - [Case with door](https://www.thingiverse.com/thing:4190488)
 
 ### Tool Holders
@@ -21,6 +21,7 @@
 
 
 ### Cameras
+- [My Esp32 camera holder]()
 - [Camera Holder - Logitech C525](https://www.thingiverse.com/thing:4667948)
 - [Camera Holder - Pi Camera](https://www.thingiverse.com/thing:4390399/files)
 - [Esp Camera](https://www.thingiverse.com/thing:4713405)
