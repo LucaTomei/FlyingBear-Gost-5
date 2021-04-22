@@ -4,11 +4,11 @@
 
 ## Original Drivers
 
- - [STOCK v 5.9](Original_Drivers/Ghost\ 5\ firmware\ V5-9.zip)
+ - [STOCK v 5.9](Original_Drivers/Ghost_5_firmware V5-9.zip)
  - [STOCK v 5.8](Original_Drivers/Ghost_5_firmware_V5-8.zip)
  - [Original with 5-point calibration (v. 5.8)](Original_Drivers/Ghost_5_firmware_V5-8-Modificato.zip)
  - [Original with 5-point calibration (v. 5.9)](Original_Drivers/Ghost_5_firmware_V5-9-Modificato.zip)
- - [Simone Carnio Firmware](Original_Drivers/STOCK_Firmware Simone Carnio Stock GH5.zip)
+ - [Simone Carnio Firmware](Original_Drivers/STOCK_Firmware_Simone_Carnio_GH5.zip)
 
 ## For TMC2209
 
