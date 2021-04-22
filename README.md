@@ -5,7 +5,7 @@ The changes on the software side can be applied on the STOCK version printer or 
 
 ## Repository Content
 
-- **[Firmares](Firmwares)**
+- **[Firmwares](Firmwares)**
 - **[Installation Videos](Installation_Videos)**
 - **[General Guides](Guides)**
 - **[Slicers](Slicers/README.md)**
