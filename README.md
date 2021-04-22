@@ -8,7 +8,7 @@ The changes on the software side can be applied on the STOCK version printer or 
 - **[Firmwares](Firmwares)**
 - **[Projects](Projects)**
 - **[Installation Videos](Installation_Videos)**
-- **[General Guides](Guides)**
+- **[Guides](Guides)**
 - **[Slicers](Slicers/README.md)**
 - **[Other](Other)**
 
