@@ -1,5 +1,9 @@
 # Projects for Flyingbear Ghost 5
 
+## Octoprint PSU control case
+
+[Guide](Octoprint_PSU/README.md)
+
 ### Case
 
 - [Case in this repository with gcode files](Copertura_plexiglass/README.md)

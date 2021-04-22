@@ -3,6 +3,15 @@
 This repository contains structural and firmware side changes applicable on the Flyingbear Ghost 5 3D printer.
 The changes on the software side can be applied on the STOCK version printer or with TMC2209 driver changes.
 
+## Repository Content
+
+- **[Firmares](Firmwares/README.md)**
+- **[Installation Videos](Installation_Videos/1 .Ghost5 column installation Flying Bear 3D Printer.mp4)**
+- **[General Guides](Guides/README.md)**
+- **[Slicers](Slicers/README.md)**
+- **[Other](Other)**
+
+
 ## Useful Links
 
 - **GCODE Analyzer**
