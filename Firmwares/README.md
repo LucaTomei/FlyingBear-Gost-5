@@ -4,7 +4,7 @@
 
 ## Original Drivers
 
- - [STOCK v 5.9](Original_Drivers/Ghost_5_firmware V5-9.zip)
+ - [STOCK v 5.9](Original_Drivers/Ghost_5_firmware_V5-9.zip)
  - [STOCK v 5.8](Original_Drivers/Ghost_5_firmware_V5-8.zip)
  - [Original with 5-point calibration (v. 5.8)](Original_Drivers/Ghost_5_firmware_V5-8-Modificato.zip)
  - [Original with 5-point calibration (v. 5.9)](Original_Drivers/Ghost_5_firmware_V5-9-Modificato.zip)
