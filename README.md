@@ -6,7 +6,7 @@ The changes on the software side can be applied on the STOCK version printer or 
 ## Repository Content
 
 - **[Firmares](Firmwares/README.md)**
-- **[Installation Videos](Installation_Videos/1 .Ghost5 column installation Flying Bear 3D Printer.mp4)**
+- **[Installation Videos](Installation_Videos)**
 - **[General Guides](Guides/README.md)**
 - **[Slicers](Slicers/README.md)**
 - **[Other](Other)**
