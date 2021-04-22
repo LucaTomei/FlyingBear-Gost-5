@@ -1,5 +1,5 @@
 # Slicers
 
-## [Cura Slicer](Cura/README.md)
+## [Cura Slicer](Cura)
 
-## [PrusaSlicer](PrusaSlicer/README.md)
+## [PrusaSlicer](PrusaSlicer)
