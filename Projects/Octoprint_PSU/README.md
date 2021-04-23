@@ -32,8 +32,8 @@ Se desideri controllare lo spegnimento e l'accensione della tua stampante 3D tra
 
 ## Struttura (STL)
 
-- [Scatola](Octoprint box bottom.stl)
-- [Copertura Scatola](stls/Octoprint box upper.stl)
+- [Scatola](Octoprint_box_bottom.stl)
+- [Copertura Scatola](stls/Octoprint_box_upper.stl)
 
 ## Guida Completa
 
