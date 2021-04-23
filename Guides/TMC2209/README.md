@@ -10,8 +10,16 @@ Per una guida dettagliata su come sostituire i driver, guardate [QUI](https://fb
       <img width="90%" src="Images/drivers.JPG">
     </p>
 
-Personalmente non ho trovato problemi nell'impostare la VREF ai seguenti valori:
+### Vecchi valori VREF
 
-- X Y Z = 0.90
-- E = 0.96
+- X = 1.23
+- Y = 1.28
+- Z = 0.96
+- E = 1.10
 
+### Nuovi valori VREF impostati per TMC2209
+
+- X = 0.94
+- Y = 0.96
+- Z = 0.96
+- E = 1.10
