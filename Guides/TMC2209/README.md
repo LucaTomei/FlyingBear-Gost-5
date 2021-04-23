@@ -17,7 +17,7 @@ Per una guida dettagliata su come sostituire i driver, guardate [QUI](https://fb
 - Z = 0.96
 - E = 1.10
 
-### Nuovi valori VREF impostati per TMC2209
+### Nuovi valori VREF impostati per i 4 TMC2209 sostituiti
 
 - X = 0.94
 - Y = 0.96
