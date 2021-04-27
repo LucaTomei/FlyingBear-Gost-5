@@ -4,6 +4,8 @@
 
 [Guide](Octoprint_PSU/README.md)
 
+## [Russian Upgrades](CHUCHATV_Upgrades.zip)
+
 ### Case
 
 - [Case in this repository with gcode files](Copertura_plexiglass/README.md)
