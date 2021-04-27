@@ -4,7 +4,7 @@
 
 [Guide](Octoprint_PSU/README.md)
 
-## [Russian Upgrades](CHUCHATV_Upgrades.zip)
+## [Russian Upgrades](CHUCHATV_Upgrades)
 
 ### Case
 
