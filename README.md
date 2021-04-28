@@ -15,8 +15,9 @@ The changes on the software side can be applied on the STOCK version printer or 
 
 ## Useful Links
 
+- [**Flyingbear Italian Community**](https://fbghostita.miraheze.org/wiki/Pagina_principale)
+- [Russian Wiki](https://flyingbear.info/ru/решения)
 - **GCODE Analyzer**
     - [Online version](http://www.gcodeanalyser.com)
     - [GitHub Repo](https://github.com/syue87/GCodeAnalyser)
 
-- [**Flyingbear Italian Community**](https://fbghostita.miraheze.org/wiki/Pagina_principale)
