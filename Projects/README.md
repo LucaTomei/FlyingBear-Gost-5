@@ -1,5 +1,6 @@
 # Projects for Flyingbear Ghost 5
 
+
 ## Octoprint PSU control case
 
 [Guide](Octoprint_PSU/README.md)
@@ -44,3 +45,6 @@
 - [Touchpen Holder 1](https://www.thingiverse.com/thing:4691468)
 - [Touchpen Holder 2](https://www.thingiverse.com/thing:4606683)
 - [Screen Cover](https://www.thingiverse.com/thing:4238913)
+
+## [Z axis upgrade](Z_axis_upgrade/README.md)
+
