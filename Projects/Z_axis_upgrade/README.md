@@ -17,16 +17,16 @@ Oltre all'accoppiamento magnetico, nella parte superiore è stato ideato un supp
 
 Per assemblare la mod avrai bisogno delle seguenti parti:
 - Magneti:
-    - 5x2mm - 12 pezzi
-    - Sfera da 3 mm - 6 pezzi
-    - 10x3mm - 4 pezzi
+    - [5x2mm - 12 pezzi](https://a.aliexpress.com/_mt1OsOV)
+    - [Sfera da 3 mm - 6 pezzi](https://a.aliexpress.com/_mt1Kk5T)
+    - [10x3mm - 4 pezzi](https://a.aliexpress.com/_mLvXlsl)
 
 - Viti:
     - m3x10 - 2 pezzi
     - m3x5 - 2 pezzi
 
 - per il supporto della vite Z avrai bisogno di:
-    - Cuscinetto 628 - pezzo
+    - [Cuscinetto 628 - pezzo](https://a.aliexpress.com/_mPPNgwH)
     - Plastica PETG o SBS per stampare il modello
 
 ## Procedura Installazione
