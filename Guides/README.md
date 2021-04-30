@@ -1,5 +1,12 @@
 # Guide Utili
 
+## Link a video guide
+
+- [Step/mm estrusore e pid](https://m.youtube.com/watch?v=Tj8GUVdgJkk&feature=youtu.be)
+- [Calibrazione flusso](https://youtu.be/tDIeS-q9Qew)
+
+## Guide dettagliate PDF
+
 - [Aggiornamento Firmware](01-Procedura-di-aggiornamento-Firmware.pdf)
 - [Calibrazione piano di stampa](02-Calibrazione-Piano-di-Stampa.pdf)
 - [Calibrazione Degli Step Estrusore](03-Calibrazione-Degli-Step-Estrusore.pdf)
