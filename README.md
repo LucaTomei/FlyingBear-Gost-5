@@ -17,6 +17,7 @@ The changes on the software side can be applied on the STOCK version printer or 
 
 ## Useful Links
 
+- [**Italy Makers - Flying Bear Ghost Facebook group**](/groups/907067056500590)
 - [**Flyingbear Italian Community**](https://fbghostita.miraheze.org/wiki/Pagina_principale)
 - [Russian Wiki](https://flyingbear.info/ru/решения)
 - **GCODE Analyzer**
