@@ -1,11 +1,11 @@
 # Projects for Flyingbear Ghost 5
 
 
-## Octoprint PSU control case
-
-[Guide](Octoprint_PSU/README.md)
+## [Octoprint PSU control case](Octoprint_PSU/README.md)
 
 ## [Russian Upgrades](CHUCHATV_Upgrades)
+
+## [Manual Bed Leveling Project](Bed_Leveling/README.md)
 
 ### Case
 
