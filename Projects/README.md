@@ -49,5 +49,4 @@
 - [Touchpen Holder 2](https://www.thingiverse.com/thing:4606683)
 - [Screen Cover](https://www.thingiverse.com/thing:4238913)
 
-## [Z axis upgrade](Z_axis_upgrade/README.md)
-
+## [Oversized Fan Mod](ventola_maggiorata/README.md)
