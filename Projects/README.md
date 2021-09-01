@@ -1,5 +1,6 @@
 # Projects for Flyingbear Ghost 5
 
+## [Smart Led](Smart_Led/README.md)
 
 ## [Octoprint PSU control case](Octoprint_PSU/README.md)
 
