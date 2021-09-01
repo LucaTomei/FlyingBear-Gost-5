@@ -43,7 +43,7 @@ void OpenWeatherMapClient::updateLanguage(String language) {
 
 void OpenWeatherMapClient::updateWeather() {
   WiFiClient weatherClient;
-  String apiGetData = "GET /data/2.5/group?id=" + myCityIDs + "&units=" + units + "&cnt=1&APPID=" + myApiKey + "&lang=" + lang + " HTTP/1.1";
+  String apiGetData = "GET /data/2.5/group?id=" + myCityIDs + "&units=" + units + "&cnt=1&APPID=" + myApiKey + "&lang=it" + " HTTP/1.1";
 
   Serial.println("Getting Weather Data");
   Serial.println(apiGetData);

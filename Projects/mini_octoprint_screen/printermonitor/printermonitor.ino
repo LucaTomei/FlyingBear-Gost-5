@@ -852,7 +852,7 @@ void drawScreen1(OLEDDisplay *display, OLEDDisplayUiState* state, int16_t x, int
 void drawScreen2(OLEDDisplay *display, OLEDDisplayUiState* state, int16_t x, int16_t y) {
   display->setTextAlignment(TEXT_ALIGN_CENTER);
   display->setFont(ArialMT_Plain_16);
-
+  
   display->drawString(64 + x, 0 + y, "Time Remaining");
   //display->setTextAlignment(TEXT_ALIGN_LEFT);
   display->setFont(ArialMT_Plain_24);

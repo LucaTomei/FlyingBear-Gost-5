@@ -58,7 +58,7 @@ SOFTWARE.
 //******************************
 
 // OctoPrint Monitoring -- Monitor your 3D printer OctoPrint Server
-String OctoPrintApiKey = "";   // ApiKey from your User Account on OctoPrint
+String OctoPrintApiKey = "0C8140FDB1B7482CB92361FC48473FBF";   // ApiKey from your User Account on OctoPrint
 String OctoPrintHostName = "octopi";// Default 'octopi' -- or hostname if different (optional if your IP changes)
 String OctoPrintServer = "";   // IP or Address of your OctoPrint Server (DO NOT include http://)
 int OctoPrintPort = 80;        // the port you are running your OctoPrint server on (usually 80);
@@ -67,9 +67,9 @@ String OctoAuthPass = "";      // only used with haproxy or basic auth (only nee
 
 // Weather Configuration
 boolean DISPLAYWEATHER = true; // true = show weather when not printing / false = no weather
-String WeatherApiKey = ""; // Your API Key from http://openweathermap.org/
+String WeatherApiKey = "271efb0cbf1b16ae131a15aa6b26ded3"; // Your API Key from http://openweathermap.org/
 // Default City Location (use http://openweathermap.org/find to find city ID)
-int CityIDs[] = { 3165624 }; //Only USE ONE for weather marquee
+int CityIDs[] = { 3175677 }; //Only USE ONE for weather marquee
 boolean IS_METRIC = false; // false = Imperial and true = Metric
 // Languages: ar, bg, ca, cz, de, el, en, fa, fi, fr, gl, hr, hu, it, ja, kr, la, lt, mk, nl, pl, pt, ro, ru, se, sk, sl, es, tr, ua, vi, zh_cn, zh_tw
 String WeatherLanguage = "it";  //Default (en) English
